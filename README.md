@@ -2,7 +2,6 @@
 # Hi, I'm Chabuuuu! 👋
 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Flutter, Java, Python...
 
 🧠 I'm currently learning AI, iOS/Android App Develop,...
