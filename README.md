@@ -25,3 +25,4 @@ I'm a software developer...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=transparent)
