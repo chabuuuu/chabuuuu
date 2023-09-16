@@ -2,7 +2,7 @@
 # Hi, I'm Chabuuuu! 👋
 
 
-👩‍💻 I'm currently working on Flutter, Java, Python...
+👩‍💻 I'm currently working on Nodejs, Flutter, Java, Python...
 
 🧠 I'm currently learning AI, iOS/Android App Development,...
 
@@ -12,7 +12,7 @@
 
 
 ## 🛠 Skills
-Java, Flutter, HTML, CSS, Python, C++,...
+Javascript, Java, Flutter, HTML, CSS, Python, C++,...
 
 
 ## 🔗 Links
