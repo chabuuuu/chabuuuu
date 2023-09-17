@@ -21,7 +21,8 @@ API design, Javascript, Java, Flutter, HTML, CSS, Python, C++,...
 
 
 ## 🚀 About Me
-I'm a software developer...
+I'm a software developer
+I'am currently interning for a nodejs backend position
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=prussian)
 
