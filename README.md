@@ -24,6 +24,6 @@ API design, Javascript, Java, Flutter, HTML, CSS, Python, C++,...
 ## 🚀 About Me
 I'm a software developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=prussian&bg_color=21314f&text_color=ffffff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=prussian&bg_color=21314f&text_color=ffffff)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff)
 
 
