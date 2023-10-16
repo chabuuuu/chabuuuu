@@ -18,6 +18,7 @@ API design, Javascript, Java, Flutter, HTML, CSS, Python, C++,...
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://vn.linkedin.com/in/thinhhaphu33 )
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChaBu1182432 )
 
 
