@@ -1,15 +1,15 @@
 
-# Hi, I'm Chabuuuu! 👋
+# Hi, I'm Chabuuuu! 
 
 I'am currently interning for a NodeJS backend position, want to learn more about Devops .
 
-👩‍💻 I'm currently working on Nodejs (Express, NestJS), Java (Spring Boot), Python...
+- I'm currently working on Nodejs (Express, NestJS), Java (Spring Boot), Python...
 
-🧠 I'm currently learning Backend, Cloud Service (AWS, Azure,..), AI, IOS/Android App Development,...
+- I'm currently learning Backend, Cloud Service (AWS, Azure,..), AI, IOS/Android App Development,...
 
-👯‍♀️ I'm seeking a Front End developer (web/app) for collaboration since my expertise primarily focuses on API design. I have a lot of ideas brewing. If you're interested, please get in touch with me 😊
+- I'm seeking a Front End developer (web/app) for collaboration since my expertise primarily focuses on API design. I have a lot of ideas brewing. If you're interested, please get in touch with me 😊
 
-🤔 I'm looking for help with Computer Vision, NLP,... 
+- I'm looking for help with Computer Vision, NLP,... 
 
 
 ## 🛠 Skills
