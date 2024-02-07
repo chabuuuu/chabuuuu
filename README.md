@@ -22,6 +22,7 @@ API design (NodeJS, Spring Boot), System design (monolithic, microservice,..), M
 
 ## 🚀 About Me
 I'm a software developer.
+The languages I use most frequently are Java, C#, TypeScript, and JavaScript. Please disregard HTML in the stat table below, as it seems GitHub may have miscalculated something.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff)
 
