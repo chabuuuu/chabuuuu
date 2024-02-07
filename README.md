@@ -21,7 +21,7 @@ API design (NodeJS, Spring Boot), System design (monolithic, microservice,..), M
 
 
 ## 🚀 About Me
-I'm a software developer
+I'm a software developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff)
 
@@ -29,5 +29,5 @@ I'm a software developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=prussian&bg_color=21314f&text_color=ffffff)   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=prussian" alt="mystreak"/>
 
