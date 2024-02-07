@@ -25,7 +25,7 @@ I'm a software developer.
 
 Writing is a small hobby of mine, this is my personal blog: [GET TIPS 200 OK](https://gettips200ok.netlify.app/)
 
-Please give me a star if my repo help you 🥰
+And, please give me a star if any of my repositories have helped you. Thank you a lot 🥰
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff)
 
