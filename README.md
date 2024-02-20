@@ -31,7 +31,7 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=prussian&bg_color=21314f&text_color=ffffff)   
+![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=prussian&bg_color=21314f&text_color=ffffff&count_private=true)   
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=prussian" alt="mystreak"/>
 
