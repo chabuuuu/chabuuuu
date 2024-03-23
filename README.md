@@ -1,7 +1,7 @@
 
 # Hi, I'm Chabuuuu! 
 
-I'am currently interning for a NodeJS backend position, want to learn more about Devops .
+I'm currently interning for a NodeJS backend position, want to learn more about Devops .
 
 - I'm currently working on Nodejs (Express, NestJS), Java (Spring Boot), Python...
 
