@@ -31,7 +31,7 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=prussian&bg_color=21314f&text_color=ffffff&count_private=true)   
 
