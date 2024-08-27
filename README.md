@@ -29,11 +29,11 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![](https://komarev.com/ghpvc/?username=chabuuuu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&bg_color=21314f&text_color=ffffff&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
-![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=prussian&bg_color=21314f&text_color=ffffff&count_private=true)   
+![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=prussian" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=onedark" alt="mystreak"/>
 
