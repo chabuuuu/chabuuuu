@@ -37,5 +37,5 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=onedark" alt="mystreak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chabuuuu)](https://git.io/streak-stats)
 
