@@ -37,4 +37,4 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![Anurag's GitHub stats](https://github-readme-stats-bqhz.verceme=onedark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu)](https://git.io/streak-stats)
