@@ -35,7 +35,6 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
-![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
+![Anurag's GitHub stats](https://github-readme-stats-bqhz.verceme=onedark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=onedark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chabuuuu)](https://git.io/streak-stats)
