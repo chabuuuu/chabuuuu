@@ -37,4 +37,4 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chabuuuu&theme=one-dark-pro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chabuuuu&theme=dark)](https://git.io/streak-stats)
