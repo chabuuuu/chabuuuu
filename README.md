@@ -29,6 +29,8 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ![](https://komarev.com/ghpvc/?username=chabuuuu)
 
+[![wakatime](https://wakatime.com/badge/user/25b47303-8cd8-4420-9495-dd7e1f04cf25.svg)](https://wakatime.com/@25b47303-8cd8-4420-9495-dd7e1f04cf25)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
