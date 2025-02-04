@@ -31,10 +31,12 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 [![wakatime](https://wakatime.com/badge/user/25b47303-8cd8-4420-9495-dd7e1f04cf25.svg)](https://wakatime.com/@25b47303-8cd8-4420-9495-dd7e1f04cf25)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=tokyonight)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=radical)
