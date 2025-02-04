@@ -35,7 +35,7 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 | Trophy | Streak | Stats |
 |--------|--------|-------|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=tokyonight)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=radical) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=tokyonight)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=tokyonight) |
 
 | Wakatime Stats | Top Languages |
 |---------------|--------------|
