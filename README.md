@@ -33,10 +33,14 @@ And, please give me a star if any of my repositories have helped you. Thank you 
 
 ### 📊 GitHub Stats
 
-| Trophy | Streak | Stats |
-|--------|--------|-------|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=tokyonight)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=github_dark) |
+| Trophy | Streak |
+|--------|--------|
+| [![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | [![GitHub Streak](https://streak-stats.demolab.com?user=chabuuuu&theme=tokyonight)](https://git.io/streak-stats) |
 
-| Wakatime Stats | Top Languages |
-|---------------|--------------|
-| [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
+| Stats | Top Languages |
+|--------|--------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabuuuu&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
+
+| Wakatime Stats |
+|---------------|
+| [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
